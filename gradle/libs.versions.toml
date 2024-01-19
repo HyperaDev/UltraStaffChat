@@ -7,7 +7,7 @@ adventure = "4.14.0"
 adventure-platform = "4.3.1"
 
 # Platforms
-platform-bungeecord = "1.20-R0.1-SNAPSHOT"
+platform-bungeecord = "1.20-R0.2"
 
 # Dependencies
 updatelib = "4.0.0"
